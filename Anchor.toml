@@ -1,0 +1,6 @@
+[programs.mainnet]
+text_poster = "11111111111111111111111111111111111111111111" # Temporary
+
+[provider]
+cluster = "mainnet-beta"
+wallet = "~/.config/solana/id.json"
